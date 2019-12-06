@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergedProject", "MergedProject\MergedProject.csproj", "{F626A915-4311-4E4C-B59E-C6447BA41675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyProject", "DependencyProject\DependencyProject.csproj", "{0501D4B8-0329-4DD5-BE16-AB6E3B355EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F626A915-4311-4E4C-B59E-C6447BA41675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F626A915-4311-4E4C-B59E-C6447BA41675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F626A915-4311-4E4C-B59E-C6447BA41675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F626A915-4311-4E4C-B59E-C6447BA41675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0501D4B8-0329-4DD5-BE16-AB6E3B355EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0501D4B8-0329-4DD5-BE16-AB6E3B355EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0501D4B8-0329-4DD5-BE16-AB6E3B355EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0501D4B8-0329-4DD5-BE16-AB6E3B355EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB663FB-BBB6-405D-8B88-D9E59E5C310A}
+	EndGlobalSection
+EndGlobal
